@@ -1,5 +1,7 @@
 # Group Event — Running for Change
 
+**Live:** https://group-event-jet.vercel.app/ — публичный сайт на Vercel, вход не требуется.
+
 Адаптивная вёрстка главной страницы по макету **Group Event (Community)** для портфолио Kwork.
 
 ## Стек
